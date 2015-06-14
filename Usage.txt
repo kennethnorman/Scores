@@ -1,0 +1,9 @@
+KN 04.02.2014
+
+The sixist web site uses the list.txt file to show data in the transcriptions page.
+The data is generated from the PDF files in the tree.
+The Artist Name, if included in the PDF name must match exactly. 
+The string "_private" can be added to the PDF file name to hide them in the page.
+The "_" or " " characters can be used as delimiters in the PDF name; both are converted to " " for display.
+
+

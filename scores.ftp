@@ -1,0 +1,8 @@
+open ftp
+usr
+pwd
+cd public_html/download/scores
+prompt i
+bin
+mput *.pdf
+bye

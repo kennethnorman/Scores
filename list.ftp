@@ -1,0 +1,18 @@
+open ftp
+usr
+pwd
+cd public_html
+put list.txt
+put songlist.xml
+put songinfo.xml
+put songinfo.upd
+cd tigerclub
+put songinfo.xml
+cd ..
+cd theairwaves
+put songinfo.xml
+cd ..
+cd brotherhoodsroundabout
+put songinfo.xml
+cd ..
+bye
